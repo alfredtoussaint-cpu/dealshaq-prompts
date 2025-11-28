@@ -25,6 +25,3 @@ It supports structured development and testing of the **Retailer App**, **Consum
 3. **Fork Session** → Start fresh in emergent.sh.  
 4. **Paste Seed Summary** → Use `summaries/dealshaq-responsibility-matrix.md`.  
 5. **Run Testing Prompts** → Paste module prompts one at a time (Retailer, Consumer, Admin, Backend, Frontend).  
-
----
-“Add README”
